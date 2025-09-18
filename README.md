@@ -1,0 +1,2 @@
+# Smart-Property-Portal-Real-Estate-Customer-Engagement-Lead-Conversion-System-
+The Smart Property Portal is a Salesforce-powered Real Estate Customer Engagement &amp; Lead Conversion System designed to streamline property management, customer enquiries, and lead-to-deal conversion. The project integrates Salesforce CRM, Lightning Web Components (LWC), Apex, and Flows to provide a complete end-to-end solution property listing,.
